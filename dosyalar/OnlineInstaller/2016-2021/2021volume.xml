@@ -1,0 +1,40 @@
+<!--
+	PRODUCT ID DETAYLARI
+	https://docs.microsoft.com/en-us/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run
+
+-->
+
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+	<Product ID="ProPlus2021Volume" PIDKEY="">
+
+      <Language ID="tr-TR" />
+	  <!-- 
+	  <ExcludeApp ID="Word" />
+      <ExcludeApp ID="Excel" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="PowerPoint" />
+	  -->
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="InfoPath" />
+      <ExcludeApp ID="Lync" />
+	  <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Outlook" />
+	  <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Project" />
+      <ExcludeApp ID="SharePointDesigner" />
+      <ExcludeApp ID="Visio" />
+      <ExcludeApp ID="Skype" />
+      <ExcludeApp ID="Skypeforbusiness" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneDriveforbusiness" />
+        
+    </Product>
+  </Add>
+	<Display Level="Full" AcceptEULA="TRUE" />
+	<!-- <RemoveMSI All="True" /> -->
+<!--	<Property Name="FORCEAPPSHUTDOWN" Value="TRUE" /> -->
+	<Property Name="AUTOACTIVATE" Value="1" />
+<!--	<Updates Enabled="TRUE" Channel="PerpetualVL2021" /> -->
+</Configuration>
