@@ -3,15 +3,15 @@
 
 <b>Not:</b> Masaüstünden çalışmayabilir. Bu tür durumda konum değiştirip çalıştırmayı deneyiniz.
 
-*Resimde görülen yazılımları çevrimiçi olarak ODT (ODT Nedir: https://www.microsoft.com/en-us/download/details.aspx?id=49117) ile indirir ve kurar.
+* Resimde görülen yazılımları çevrimiçi olarak ODT (ODT Nedir: https://www.microsoft.com/en-us/download/details.aspx?id=49117) ile indirir ve kurar.
 
-*Aktivasyon amacıyla etkinleştirme scriptleri eklenmiştir. Bu scriptlerde lisans anahtarını girersiniz ve sizin yerinize etkinleştirme işlemini script halleder. Doğru etkinleştirmek için sıralama şu şekilde olmalı;
+* Aktivasyon amacıyla etkinleştirme scriptleri eklenmiştir. Bu scriptlerde lisans anahtarını girersiniz ve sizin yerinize etkinleştirme işlemini script halleder. Doğru etkinleştirmek için sıralama şu şekilde olmalı;
    
-   *Önce deneme sürüm vb. lisans anahtarları tamamen silinir.
+   - Önce deneme sürüm vb. lisans anahtarları tamamen silinir.
    
-   *Sonra lisansınız girilir.
+   - Sonra lisansınız girilir.
    
-   *Ardından etkinleştirme çevrimiçi ya da çevrimdışı olarak yapılır.
+   - Ardından etkinleştirme çevrimiçi ya da çevrimdışı olarak yapılır.
  
 
 
